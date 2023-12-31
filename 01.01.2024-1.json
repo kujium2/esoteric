@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Henderson",
+    "age": 89,
+    "address": {
+        "street": "April Court",
+        "city": "North Bruce",
+        "state": "Idaho",
+        "zip": "73365"
+    },
+    "contact": {
+        "phone": "2457492015",
+        "servicePhone": "800015997"
+    },
+    "birthday": "1936-04-09",
+    "ip": "167.26.74.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Type physical technology party least national. Themselves prevent affect myself total lawyer. Human protect school school wear claim.",
+        "bio": "Continue away reason itself song likely. Something require scientist finish answer public.\nEnter another week pull. Former five then exactly hope majority born score. Only site morning baby."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
