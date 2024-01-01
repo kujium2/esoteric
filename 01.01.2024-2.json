@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Murray",
+    "age": 41,
+    "address": {
+        "street": "Joel Valleys",
+        "city": "Jeremiahville",
+        "state": "Delaware",
+        "zip": "23055"
+    },
+    "contact": {
+        "phone": "001-477-687-5544x861",
+        "servicePhone": "800720100"
+    },
+    "birthday": "1984-14-03",
+    "ip": "75.94.12.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband magazine discover year term success. Argue occur whatever who. Word model perhaps young man population.\nMagazine film pull any. Phone similar sort position ago.",
+        "bio": "Leg side name tend play real organization yourself. Recently protect culture matter."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
