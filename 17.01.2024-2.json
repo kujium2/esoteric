@@ -1,0 +1,25 @@
+{
+    "name": "Dana Torres",
+    "age": 41,
+    "address": {
+        "street": "Riddle Radial",
+        "city": "Keithbury",
+        "state": "Rhode Island",
+        "zip": "75862"
+    },
+    "contact": {
+        "phone": "241.569.9172",
+        "servicePhone": "800620879"
+    },
+    "birthday": "1984-05-11",
+    "ip": "13.38.69.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional hour relationship manager quickly about. Understand hundred rock key plan professional reveal.",
+        "bio": "Develop soldier wind east. Remember attention ago future political order.\nSound build peace few though whose debate. Law name and range over begin certain."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
