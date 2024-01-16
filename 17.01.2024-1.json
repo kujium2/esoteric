@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Houston",
+    "age": 81,
+    "address": {
+        "street": "Campbell Summit",
+        "city": "Port Justin",
+        "state": "Michigan",
+        "zip": "98383"
+    },
+    "contact": {
+        "phone": "(261)580-6510",
+        "servicePhone": "800698153"
+    },
+    "birthday": "1944-17-07",
+    "ip": "87.24.7.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason whom machine where. Seven positive activity. Unit hundred pretty money commercial six. Less box rise blood ask magazine strategy.",
+        "bio": "So themselves everything someone for. Glass individual never.\nTeam lay as everyone song inside soldier. Beat election environmental culture lead body dream."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
