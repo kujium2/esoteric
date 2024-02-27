@@ -1,0 +1,25 @@
+{
+    "name": "Eileen Hamilton",
+    "age": 96,
+    "address": {
+        "street": "Ford Brook",
+        "city": "West Dawnland",
+        "state": "Kentucky",
+        "zip": "36167"
+    },
+    "contact": {
+        "phone": "+1-965-468-9015",
+        "servicePhone": "800685875"
+    },
+    "birthday": "1929-06-12",
+    "ip": "208.231.27.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Low every something policy human. In me technology set brother.\nFamily soon always professor kid around. Least traditional ability job. Almost raise candidate wait.",
+        "bio": "Laugh lead look a low time dark. House attorney wall. Stop onto scientist wait.\nKeep use life billion. In real stop might. Interest office loss stay court else owner out.\nAhead seven per resource."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
