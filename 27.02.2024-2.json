@@ -1,0 +1,25 @@
+{
+    "name": "Steven Hernandez",
+    "age": 26,
+    "address": {
+        "street": "Michael Island",
+        "city": "Georgeton",
+        "state": "Vermont",
+        "zip": "13128"
+    },
+    "contact": {
+        "phone": "896-492-3064x502",
+        "servicePhone": "800889070"
+    },
+    "birthday": "1999-05-10",
+    "ip": "169.204.0.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference bank difference order become. Between become sign just rock.\nNone cover little ever finish adult.",
+        "bio": "Guess already again already civil bag.\nRather score teacher ever big. Defense build figure whom.\nMuch southern although worry compare here hear."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
