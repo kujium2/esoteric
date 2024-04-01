@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Anderson",
+    "age": 10,
+    "address": {
+        "street": "Hart Neck",
+        "city": "Cynthiahaven",
+        "state": "Oklahoma",
+        "zip": "98817"
+    },
+    "contact": {
+        "phone": "8338145722",
+        "servicePhone": "800002912"
+    },
+    "birthday": "2015-21-11",
+    "ip": "42.79.29.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow commercial leave west himself. Real meet tonight sister. Floor their left use fire home story.\nFly authority into land. Left deep fire weight for drug firm.",
+        "bio": "Treat manager discussion no. What president news education. Baby turn large front poor college."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
