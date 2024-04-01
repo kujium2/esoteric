@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Holmes",
+    "age": 61,
+    "address": {
+        "street": "Matthew Island",
+        "city": "North Heatherview",
+        "state": "Florida",
+        "zip": "62101"
+    },
+    "contact": {
+        "phone": "+1-526-514-2113",
+        "servicePhone": "800935878"
+    },
+    "birthday": "1964-18-11",
+    "ip": "132.38.85.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional result successful recent catch. Section center turn represent enough develop sometimes.",
+        "bio": "Government chance toward turn summer. At memory none occur paper action behavior hundred.\nAhead growth all subject begin others. Become born usually. Three responsibility feeling large half."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
