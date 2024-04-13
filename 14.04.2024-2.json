@@ -1,0 +1,25 @@
+{
+    "name": "Bill Wells",
+    "age": 72,
+    "address": {
+        "street": "Thomas Glen",
+        "city": "Nelsonberg",
+        "state": "Washington",
+        "zip": "12908"
+    },
+    "contact": {
+        "phone": "347-910-7694x72161",
+        "servicePhone": "800439393"
+    },
+    "birthday": "1953-15-06",
+    "ip": "73.162.197.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Expert thank culture gas what. Wonder side almost present full.\nAssume project can when early ready. Fire public even already.",
+        "bio": "Poor PM Congress fish beat president work someone. Tax dark likely kid fire left. Ok need quickly story American determine.\nTreatment item free scene TV."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
