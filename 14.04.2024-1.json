@@ -1,0 +1,25 @@
+{
+    "name": "Edward Shaw",
+    "age": 111,
+    "address": {
+        "street": "Samantha Tunnel",
+        "city": "New Matthewmouth",
+        "state": "Arizona",
+        "zip": "40069"
+    },
+    "contact": {
+        "phone": "+1-952-592-2435x09791",
+        "servicePhone": "800289763"
+    },
+    "birthday": "1914-26-06",
+    "ip": "37.48.65.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye get appear guess. Could explain need floor leave. Information stand figure nearly.\nReflect begin during face trial forward. Drop center most fine without lead very. Child of the prevent.",
+        "bio": "About might assume assume table future allow shoulder. Goal wide who play send social scene modern. Experience claim news fire really.\nYou anything mean either they sort treatment hospital."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
