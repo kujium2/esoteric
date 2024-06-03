@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Jonathan Foley",
+    "age": 98,
+    "address": {
+        "street": "Catherine Forest",
+        "city": "Georgehaven",
+        "state": "Minnesota",
+        "zip": "41035"
+    },
+    "contact": {
+        "phone": "594-613-5811x349",
+        "servicePhone": "800918042"
+    },
+    "birthday": "1927-20-05",
+    "ip": "219.92.79.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure other concern alone Democrat. Charge participant contain religious. Section down stand even fact prove.\nTime wife a establish whom. Today institution American might.",
+        "bio": "Finally spend throw name top Democrat. Building agree important worker forget. Voice against picture might base beat attack. Happen late yeah red surface."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
