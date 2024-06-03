@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Gallegos",
+    "age": 65,
+    "address": {
+        "street": "Simmons Courts",
+        "city": "East Kathleen",
+        "state": "Texas",
+        "zip": "35818"
+    },
+    "contact": {
+        "phone": "001-789-514-1431x114",
+        "servicePhone": "800689977"
+    },
+    "birthday": "1960-28-05",
+    "ip": "37.87.243.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Development stuff available test perhaps lawyer contain. Civil size tough administration money. Two size let clear behind bar high.",
+        "bio": "Drop election someone increase daughter government. True teacher season similar relate lose air.\nPublic market minute course television. Point job church heavy."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
