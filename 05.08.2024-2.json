@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Contreras",
+    "age": 116,
+    "address": {
+        "street": "Cruz Path",
+        "city": "North Laura",
+        "state": "Iowa",
+        "zip": "10217"
+    },
+    "contact": {
+        "phone": "(306)767-0926x44929",
+        "servicePhone": "800650718"
+    },
+    "birthday": "1909-04-12",
+    "ip": "107.157.36.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Rise worry major threat dark. Protect treatment Democrat blue small. Run more word president discover strong.",
+        "bio": "Challenge begin decide increase third. Simply most art task. Remember night field real us attack.\nUsually according she. Including between crime little."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
