@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Dorsey",
+    "age": 13,
+    "address": {
+        "street": "Nicole Crossing",
+        "city": "Peterville",
+        "state": "Iowa",
+        "zip": "21247"
+    },
+    "contact": {
+        "phone": "971.296.8544x61874",
+        "servicePhone": "800715760"
+    },
+    "birthday": "2012-30-09",
+    "ip": "187.122.113.104",
+    "foo": "bar",
+    "profile": {
+        "about": "History from people by president rate though. Simple machine three letter course. Like option consider skill condition only.",
+        "bio": "Year particular eight nature. Look discuss conference control mission research.\nSuddenly of rest staff. His night early move picture early different remain. Look one subject you."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
