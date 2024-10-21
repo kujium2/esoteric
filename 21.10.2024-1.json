@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Arias",
+    "age": 17,
+    "address": {
+        "street": "Jones Circle",
+        "city": "Spencerland",
+        "state": "Wyoming",
+        "zip": "88601"
+    },
+    "contact": {
+        "phone": "643-554-8687",
+        "servicePhone": "800639754"
+    },
+    "birthday": "2008-12-08",
+    "ip": "124.240.154.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Poor tough economic. Letter difference lead stop break measure few nor. And drug include condition property condition.",
+        "bio": "Several hair high make several be business. Authority seat hand blood look far. Never environment idea structure they."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
