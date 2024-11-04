@@ -1,0 +1,25 @@
+{
+    "name": "Frederick Black",
+    "age": 2,
+    "address": {
+        "street": "Nichols Corner",
+        "city": "Shannonland",
+        "state": "South Carolina",
+        "zip": "99550"
+    },
+    "contact": {
+        "phone": "001-447-974-5589x474",
+        "servicePhone": "800222445"
+    },
+    "birthday": "2023-25-11",
+    "ip": "66.69.240.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed situation former exactly game ahead work. Marriage officer box social.\nThink card cultural.",
+        "bio": "Relationship sea unit some. Tough cold fund lawyer business smile. Own fast individual all pick."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
