@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hansen",
+    "age": 29,
+    "address": {
+        "street": "Arroyo Throughway",
+        "city": "West Michael",
+        "state": "Rhode Island",
+        "zip": "46898"
+    },
+    "contact": {
+        "phone": "(333)757-6305",
+        "servicePhone": "800324870"
+    },
+    "birthday": "1996-28-08",
+    "ip": "46.199.119.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue dog impact again. Time establish another box former little eight. We specific house argue white big. Environment standard contain available ever air teach.",
+        "bio": "Rise role easy young at suddenly age. Morning special study catch serious power operation.\nWind easy child least instead produce new teacher. Might shake sound eye direction."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
