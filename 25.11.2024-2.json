@@ -1,0 +1,25 @@
+{
+    "name": "Danny Baker",
+    "age": 77,
+    "address": {
+        "street": "Pamela Cliffs",
+        "city": "Rickeymouth",
+        "state": "New Jersey",
+        "zip": "71282"
+    },
+    "contact": {
+        "phone": "001-646-403-1418x428",
+        "servicePhone": "800858544"
+    },
+    "birthday": "1948-10-10",
+    "ip": "97.87.194.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Green Congress more wrong off mouth it alone. Age technology pressure.",
+        "bio": "Suggest even affect system still. Section despite fast government best she truth.\nGarden maintain seem lawyer agreement trial. Food middle risk job writer exist fly ever."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
