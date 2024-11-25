@@ -1,0 +1,25 @@
+{
+    "name": "Caitlin Barnes",
+    "age": 68,
+    "address": {
+        "street": "Stanley Forges",
+        "city": "North Nicole",
+        "state": "Iowa",
+        "zip": "79099"
+    },
+    "contact": {
+        "phone": "+1-979-228-3815x602",
+        "servicePhone": "800618673"
+    },
+    "birthday": "1957-10-07",
+    "ip": "202.5.45.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Six hard modern very use idea light forward. Throughout four threat until security. Visit term seven enjoy yes figure start language.\nFinal box same peace. Decision billion eight hit send.",
+        "bio": "Woman result both truth western understand. Evidence security team himself notice.\nThought yard now. Determine difficult though heavy imagine foot others."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
