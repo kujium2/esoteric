@@ -1,0 +1,25 @@
+{
+    "name": "Mark Castillo",
+    "age": 94,
+    "address": {
+        "street": "Powell Ports",
+        "city": "Port Ryan",
+        "state": "Arizona",
+        "zip": "81882"
+    },
+    "contact": {
+        "phone": "541.863.9212x385",
+        "servicePhone": "800781838"
+    },
+    "birthday": "1931-20-02",
+    "ip": "152.140.172.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Could card town half subject chair thing.\nCertainly beat laugh sing.\nNight writer money. Bring evening unit pattern something contain. Point military case do. Such strategy within dream.",
+        "bio": "Ok eye music mother information across issue."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
