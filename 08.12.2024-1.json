@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Howell",
+    "age": 107,
+    "address": {
+        "street": "Small Roads",
+        "city": "Suttonville",
+        "state": "Rhode Island",
+        "zip": "24767"
+    },
+    "contact": {
+        "phone": "+1-282-332-9861",
+        "servicePhone": "800290748"
+    },
+    "birthday": "1918-21-09",
+    "ip": "134.7.167.250",
+    "foo": "bar",
+    "profile": {
+        "about": "School cover often against media. For method such poor lay decision five.\nPush service throughout speech sing agree several. Follow base process lead degree year. Sing other skin people program.",
+        "bio": "Effect personal news know. Crime benefit daughter authority evidence."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
